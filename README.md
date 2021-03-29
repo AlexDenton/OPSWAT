@@ -8,7 +8,7 @@ Tested on: Windows 10
 
 # Build Instructions
 
-1. Clone the repo from Github: `https://github.com/tfonzi/OPSWAT.git`
+1. Clone the repo from Github: `git clone https://github.com/tfonzi/OPSWAT.git`
 
 2. Download and install Node.js and npm if not already installed: https://nodejs.org/en/download/
 
