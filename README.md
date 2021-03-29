@@ -2,9 +2,9 @@
 
 Author: Tyler Fonzi
 
-Built and coded using: Node.js and JavaScript
+Built with Node.js and JavaScript
 
-Tested on: Windows Visual Studio Code
+Tested on: Windows 10
 
 # Build Instructions
 
