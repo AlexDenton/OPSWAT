@@ -8,12 +8,12 @@ Tested on: Windows Visual Studio Code
 
 # Build Instructions
 
-1. Download files from GitHub Repo.
+1. Clone the repo from Github: `git clone tfonzi/OPSWAT`
 
-2. Download and install Node.js and npm if not already installed.
+2. Download and install Node.js and npm if not already installed: https://nodejs.org/en/download/
 
-2. In directory, run the command "npm install" to install the packages specified by the package.json file.
+2. In directory, run `npm install` to install the packages specified by the package.json file.
 
-3. Add ".env" file using the example format, specifying the API Key
+3. Override the included `.env` file by specifying the API Key
 
 4. Run the program with the command "node app.js".
