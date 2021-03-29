@@ -8,7 +8,7 @@ Tested on: Windows Visual Studio Code
 
 # Build Instructions
 
-1. Clone the repo from Github: `git clone tfonzi/OPSWAT`
+1. Clone the repo from Github: `https://github.com/tfonzi/OPSWAT.git`
 
 2. Download and install Node.js and npm if not already installed: https://nodejs.org/en/download/
 
