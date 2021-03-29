@@ -16,4 +16,4 @@ Tested on: Windows Visual Studio Code
 
 3. Override the included `.env` file by specifying the API Key
 
-4. Run the program with the command "node app.js".
+4. Run the app with `node app.js`.
